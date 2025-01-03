@@ -1,5 +1,14 @@
 # Weather Type Prediction
 
+## Table of contents
+* [Introduction](##Introduction)
+* [Data Description](##Data-Description)  
+* [Dataset pre-processing](##Dataset-pre-processing)
+* [Feature Scaling](##Feature-Scaling)
+* [Dataset Splitting](##Dataset-Splitting)
+* [Model Training and Testing](##Model-Training-and-Testing)
+* [Conclusion](##Conclusion)
+
 ## Introduction
 
 Countless times it has happened that we needed to cancel a plan only
