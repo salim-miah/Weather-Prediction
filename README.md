@@ -1,13 +1,13 @@
 # Weather Type Prediction
 
 ## Table of contents
-* [Introduction](##Introduction)
-* [Data Description](##Data-Description)  
-* [Dataset pre-processing](##Dataset-pre-processing)
-* [Feature Scaling](##Feature-Scaling)
-* [Dataset Splitting](##Dataset-Splitting)
-* [Model Training and Testing](##Model-Training-and-Testing)
-* [Conclusion](##Conclusion)
+* [Introduction](##introduction)
+* [Data Description](##data-description)  
+* [Dataset pre-processing](##dataset-pre-processing)
+* [Feature Scaling](##feature-scaling)
+* [Dataset Splitting](##dataset-splitting)
+* [Model Training and Testing](##model-training-and-testing)
+* [Conclusion](##conclusion)
 
 ## Introduction
 
