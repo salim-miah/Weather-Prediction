@@ -1,13 +1,13 @@
 # Weather Type Prediction
 
 ## Table of contents
-* [Introduction](##introduction)
-* [Data Description](##data-description)  
-* [Dataset pre-processing](##dataset-pre-processing)
-* [Feature Scaling](##feature-scaling)
-* [Dataset Splitting](##dataset-splitting)
-* [Model Training and Testing](##model-training-and-testing)
-* [Conclusion](##conclusion)
+* [Introduction](https://github.com/salim-miah/Weather-Prediction/edit/main/README.md#introduction)
+* [Data Description](https://github.com/salim-miah/Weather-Prediction/edit/main/README.md#data-description)  
+* [Dataset pre-processing](https://github.com/salim-miah/Weather-Prediction/edit/main/README.md#dataset-pre-processing)
+* [Feature Scaling](https://github.com/salim-miah/Weather-Prediction/edit/main/README.md#feature-scaling)
+* [Dataset Splitting](https://github.com/salim-miah/Weather-Prediction/edit/main/README.md#dataset-splitting)
+* [Model Training and Testing](https://github.com/salim-miah/Weather-Prediction/edit/main/README.md#model-training-and-testing)
+* [Conclusion](https://github.com/salim-miah/Weather-Prediction/edit/main/README.md#conclusion)
 
 ## Introduction
 
